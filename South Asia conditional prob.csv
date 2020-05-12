@@ -1,0 +1,7 @@
+Country(South Asia),Taliban,Communist Party of India,P(T|A),P(C|A)
+Afghanistan,7423,0,0.992777852,0
+India,0,1877,0,0.999467519
+Nepal,0,1,0,0.000532481
+Pakistan,54,0,0.007222148,0
+,,,,
+Total number of attacks made,7477,1878,,
